@@ -1,6 +1,12 @@
 # PeaversRealValue
 
-A World of Warcraft addon that displays real-world currency values of items in tooltips, converting their gold value based on current WoW Token prices.
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/peavers/PeaversRealCurrency)](https://github.com/peavers/PeaversRealCurrency/commits/master) [![Last commit](https://img.shields.io/github/last-commit/peavers/PeaversRealCurrency)](https://github.com/peavers/PeaversRealCurrency/commits/master) [![CurseForge](https://img.shields.io/curseforge/dt/1266922?label=CurseForge&color=F16436)](https://www.curseforge.com/wow/addons/peaversrealvalue)
+
+** A World of Warcraft addon that displays real-world currency values of items in tooltips, converting their gold value based on current WoW Token prices.
+
+### New!
+Check out [peavers.io](https://peavers.io) and [bootstrap.peavers.io](https://bootstrap.peavers.io) for all my WoW addons and support.
+
 
 ## Features
 
@@ -61,15 +67,8 @@ View current exchange rates and WoW Token prices:
 ## Dependencies
 
 - PeaversCommons (required)
-- PeaversCurrencyData (required for currency conversion)
+- PeaversCurrencyData (required)
 
-## Local Development
+## Support & Feedback
 
-Use the included deployment scripts to quickly deploy changes to your local WoW installation:
-
-- On macOS: `./local_deploy.sh`
-- On Windows: `./local_deploy.ps1`
-
-## License
-
-MIT License - see [LICENSE](LICENSE) file for details
+If you encounter any issues or have suggestions for improvements, please submit them via [GitHub Issues](https://github.com/peavers/PeaversRealValue/issues). Your feedback is valuable in enhancing the addon experience for all players.
