@@ -3,7 +3,7 @@
 ## Notes: Shows the real-world dollar value of items based on their auction house price
 ## IconTexture: Interface\AddOns\PeaversCommons\src\Media\Icon.tga
 ## Author: Peavers
-## Version: 1.0.3
+## Version: 1.0.4
 ## Dependencies: PeaversCommons, PeaversCurrencyData
 ## SavedVariables: PeaversRealValueDB
 ## Category-enUS: Peavers
