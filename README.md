@@ -2,7 +2,7 @@
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/peavers/PeaversRealCurrency)](https://github.com/peavers/PeaversRealCurrency/commits/master) [![Last commit](https://img.shields.io/github/last-commit/peavers/PeaversRealCurrency)](https://github.com/peavers/PeaversRealCurrency/commits/master) [![CurseForge](https://img.shields.io/curseforge/dt/1266922?label=CurseForge&color=F16436)](https://www.curseforge.com/wow/addons/peaversrealvalue)
 
-** A World of Warcraft addon that displays real-world currency values of items in tooltips, converting their gold value based on current WoW Token prices.
+**A World of Warcraft addon that displays real-world currency values of items in tooltips, converting their gold value based on current WoW Token prices.
 
 ### New!
 Check out [peavers.io](https://peavers.io) and [bootstrap.peavers.io](https://bootstrap.peavers.io) for all my WoW addons and support.
