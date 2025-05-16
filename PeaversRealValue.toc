@@ -7,6 +7,8 @@
 ## Dependencies: PeaversCommons, PeaversCurrencyData
 ## SavedVariables: PeaversRealValueDB
 ## Category-enUS: Peavers
+## X-Curse-Project-ID: 1266922
+
 
 # Core
 src\Core\PriceCache.lua
