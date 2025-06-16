@@ -72,3 +72,5 @@ View current exchange rates and WoW Token prices:
 ## Support & Feedback
 
 If you encounter any issues or have suggestions for improvements, please submit them via [GitHub Issues](https://github.com/peavers/PeaversRealValue/issues). Your feedback is valuable in enhancing the addon experience for all players.
+
+<!-- Workflow triggered: 2025-06-16T10:45:59.830131 -->
