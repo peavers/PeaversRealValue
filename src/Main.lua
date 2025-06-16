@@ -79,7 +79,7 @@ PeaversCommons.Events:Init(addonName, function()
         end
     end)
 end, {
-    announceMessage = "Use |cff3abdf7/prv config|r to get started"
+    suppressAnnouncement = true
 })
 
 -- Export addon table
